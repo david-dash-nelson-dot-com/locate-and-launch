@@ -6,6 +6,12 @@
       "name": "KJV Bible Search",
       "description": "Search verses and copy a result",
       "configurationURL": "https://raw.githubusercontent.com/david-dash-nelson-dot-com/locate-and-launch/refs/heads/main/examples/kjv/kjv.json"
-    }
+    },
+    {
+      "id": "apache-log",
+      "name": "Sample apache server log",
+      "description": "Search and copy log entries",
+      "configurationURL": "https://raw.githubusercontent.com/david-dash-nelson-dot-com/locate-and-launch/refs/heads/main/examples/apache/Sample%20Apache%20Log.json"
+    }    
   ]
 }
