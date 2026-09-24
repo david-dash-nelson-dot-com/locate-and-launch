@@ -3,9 +3,9 @@
   "examples": [
     {
       "id": "bible-search",
-      "name": "Bible Search",
+      "name": "KJV Bible Search",
       "description": "Search verses and copy a result",
-      "configurationURL": "https://raw.githubusercontent.com/OWNER/REPO/main/examples/bible.json"
+      "configurationURL": "https://raw.githubusercontent.com/david-dash-nelson-dot-com/locate-and-launch/refs/heads/main/examples/kjv/kjv.json"
     }
   ]
 }
