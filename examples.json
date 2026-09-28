@@ -17,7 +17,7 @@
       "id": "holiday-movies",
       "name": "Holiday Movies",
       "description": "Search for Holiday Movies and look them up in IMDB",
-      "configurationURL": "https://raw.githubusercontent.com/david-dash-nelson-dot-com/locate-and-launch/refs/heads/main/examples/HolidayMovies.json"
+      "configurationURL": "https://raw.githubusercontent.com/david-dash-nelson-dot-com/locate-and-launch/refs/heads/main/HolidayMovies.json"
     } 
   ]
 }
